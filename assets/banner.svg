@@ -46,15 +46,15 @@
   <g font-family="Segoe UI, Arial, sans-serif" font-weight="600">
     <g transform="translate(790 70)">
       <rect width="420" height="48" rx="24" fill="#071a4a" stroke="#2f8bff" stroke-width="1.5" filter="url(#glow)"/>
-      <text x="210" y="31" text-anchor="middle" font-size="19" fill="#ffffff">⚡ AI Automation &amp; Agents</text>
+      <text x="210" y="31" text-anchor="middle" font-size="19" fill="#ffffff">🌐 Full-Stack Web &amp; SaaS</text>
     </g>
     <g transform="translate(790 136)">
       <rect width="420" height="48" rx="24" fill="#071a4a" stroke="#2f8bff" stroke-width="1.5" filter="url(#glow)"/>
-      <text x="210" y="31" text-anchor="middle" font-size="19" fill="#ffffff">🎬 Video &amp; Content Pipelines</text>
+      <text x="210" y="31" text-anchor="middle" font-size="19" fill="#ffffff">📱 Mobile Apps · iOS &amp; Android</text>
     </g>
     <g transform="translate(790 202)">
       <rect width="420" height="48" rx="24" fill="#071a4a" stroke="#2f8bff" stroke-width="1.5" filter="url(#glow)"/>
-      <text x="210" y="31" text-anchor="middle" font-size="19" fill="#ffffff">🚀 Full-Stack Web &amp; SaaS</text>
+      <text x="210" y="31" text-anchor="middle" font-size="19" fill="#ffffff">🤖 AI Engineering &amp; Agents</text>
     </g>
   </g>
 

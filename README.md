@@ -5,8 +5,8 @@
 <h2 align="center">Hi, I'm Muhammad Jawad Zia 👋</h2>
 
 <p align="center">
-  <b>AI Automation Engineer · Full-Stack Developer · Founder @ Dartsol</b><br/>
-  I build AI agents, RAG systems and automation pipelines that save businesses hours every week.
+  <b>CTO @ Dartsol · Full-Stack Developer · Mobile App Developer · AI Engineer</b><br/>
+  I lead technology at Dartsol and build web apps, mobile apps and AI-powered products, from idea to launch.
 </p>
 
 <p align="center">
@@ -22,18 +22,20 @@
 
 ### ⚡ What I do
 
-- 🤖 **AI agents & chatbots**: LLM-powered assistants with memory, tool calling and multi-step workflows (LangGraph, LangChain)
+- 🌐 **Full-stack web development**: SaaS products, dashboards, CRMs, REST APIs and admin panels
+- 📱 **Mobile app development**: cross-platform iOS & Android apps with clean UI, auth, payments and push notifications
+- 🤖 **AI engineering**: LLM agents and chatbots with memory and tool calling (LangGraph, LangChain)
 - 📚 **RAG systems**: chat with your PDFs, websites and company docs, using vector search with Qdrant
-- 🔁 **Workflow automation**: Python, n8n, Make and Zapier pipelines that connect your apps
-- 🎬 **AI video & content automation**: script → generate → render → publish to YouTube, TikTok and Instagram
-- 🌐 **Full-stack web apps**: dashboards, CRMs, APIs and admin panels
+- 🔁 **AI automation**: workflow and content pipelines, e.g. script → AI video → published to YouTube, TikTok and Instagram
 
 ### 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,tailwind,postgres,mongodb,sqlite,docker,git,github&perline=14" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,python,fastapi,postgres,mongodb,firebase,docker,git&perline=14" />
 </p>
 
+**Web:** React · Next.js · Node.js · Express · FastAPI · Tailwind · PostgreSQL · MongoDB<br/>
+**Mobile:** Flutter · React Native · Firebase · iOS & Android<br/>
 **AI / LLM:** OpenAI · LangGraph · LangChain · LiteLLM · Qdrant · Streamlit · RAG · Prompt engineering
 
 ### 🚀 Featured projects
@@ -46,8 +48,8 @@
 
 ### 🔭 Currently
 
-- 🛠️ Open-sourcing demo versions of my AI automation work. New repos added weekly.
-- 💼 Taking on freelance projects in AI agents, RAG and automation
+- 🛠️ Open-sourcing demo versions of my web, mobile and AI work. New repos added weekly.
+- 💼 Taking on freelance projects: full-stack web apps, mobile apps and AI integrations
 
 <!-- GitHub stats cards: uncomment after about a month of commits (on a new account they show zeros)
 <p align="center">
@@ -59,5 +61,5 @@
 ---
 
 <p align="center">
-  <b>💼 Have a process you'd like automated with AI?</b> Let's build it together.
+  <b>💼 Need a web app, mobile app or AI feature built?</b> Let's build it together.
 </p>
