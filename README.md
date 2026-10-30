@@ -31,7 +31,7 @@
 ### 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,python,fastapi,postgres,mongodb,firebase,docker,git&perline=14" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,python,fastapi,flutter,dart,postgres,mongodb,firebase,docker,git&perline=16" />
 </p>
 
 **Web:** React · Next.js · Node.js · Express · FastAPI · Tailwind · PostgreSQL · MongoDB<br/>
